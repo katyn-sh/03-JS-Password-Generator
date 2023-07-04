@@ -5,4 +5,5 @@ This is a password generator that can generate a password according to certain p
 https://katyn-sh.github.io/03-JS-Password-Generator/
 This is a link to the GitHub pages demonstrating the password generator.
 
+![genoratorScrot](/03-JS-Password-Generator/pw%20scrot.png)
 This is a screenshot of the password generator.
