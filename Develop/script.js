@@ -11,7 +11,6 @@ const parameters = {
 
 function generatePassword() {
   var passwordCharSet = "";
-
   var length = prompt("Specify password length, between 8 and 128");
 
   var lowercase = confirm("Include lowercase characters?");
@@ -48,10 +47,6 @@ function writePassword() {
   passwordText.value = password;
 
 }
-
-
-
-
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
